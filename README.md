@@ -14,4 +14,4 @@ How to Run this Project ?
 12) Run the app file 
 13) -> python app.py 
 14) Hit the http link on the browser by copying  and you are GTG
-# Note* Code file contain a ppt for better understanding of project
+15) Note* Code file contain a ppt for better understanding of project

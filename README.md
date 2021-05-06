@@ -11,5 +11,6 @@ How to Run this Project ?
 9) Install all the required packages by following command 
 10) -> pip install -r requirements.txt
 11) after the sucessful installation of packages 
-12) python app.py 
-13) Hit the http link on the browser by copying  and you are GTG
+12) Run the app file 
+13) -> python app.py 
+14) Hit the http link on the browser by copying  and you are GTG

@@ -1,5 +1,5 @@
 # Car-Price-Prediction
-How to Run this Project ?
+Steps to Run this Project ?
 1) Download the code file in your local directory and unzip the folder.
 2) Download Ancaonda and open the Anconda prompt.
 3) Create the environment with the following command 
